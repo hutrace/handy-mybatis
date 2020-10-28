@@ -1,0 +1,5 @@
+mybatis.config.init = Initialize MyBatis configuration information...
+mybatis.config.mapper.error = Incorrect format of mappers property, this property is a string, multiple are separated by English comma (,), can not appear at the end of the English comma (,)
+mybatis.config.error.id = MyBatis error: This id '{}' already exists
+mybatis.mapper.load = Loading MyBatis mapping file : '{}'
+mybatis.mapper.load.error = Loading MyBatis mapping file error : '{}'

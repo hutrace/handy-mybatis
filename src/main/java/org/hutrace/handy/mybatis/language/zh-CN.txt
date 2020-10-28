@@ -1,0 +1,5 @@
+mybatis.config.init = 初始化MyBatis配置信息...
+mybatis.config.error.mapper = mappers属性格式错误，该属性为字符串，多个以英文逗号（,）分隔，末尾不能出现英文逗号（,）
+mybatis.config.error.id = MyBatis错误:这个id '{}'已经存在
+mybatis.mapper.load = 加载MyBatis映射文件: '{}'
+mybatis.mapper.load.error = 加载MyBatis映射文件错误: '{}'
